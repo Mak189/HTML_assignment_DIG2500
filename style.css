@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: purple;
+}
+
+h2 {
+    padding: 20px;
+}
+
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+.titletext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
